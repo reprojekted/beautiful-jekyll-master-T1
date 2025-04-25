@@ -10,7 +10,7 @@ image: "https://cdn.jsdelivr.net/gh/youruser/yourrepo@main/images/ai.jpg"
 tags: ["AI trading bots"]
 ---
 
-```html
+html
 <!-- Casual Blog Post: AI in Finance for Retail Traders -->
 <article>
   <header>
@@ -51,4 +51,3 @@ tags: ["AI trading bots"]
     <p>Happy trading and stay smart out there!</p>
   </footer>
 </article>
-```
