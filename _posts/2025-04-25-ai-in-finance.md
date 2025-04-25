@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "AI in Finance"
+date: 2025-04-25 10:00:00 +0000
+categories: [finance, ai]
 description: "An SEO-friendly guide to AI in Finance for retail traders."
 slug: "ai-in-finance"
 date: "2025-04-25"
