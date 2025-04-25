@@ -6,6 +6,11 @@ date: "2025-04-25"
 image: "https://cdn.jsdelivr.net/gh/youruser/yourrepo@main/images/vegan.jpg"
 tags: ["vegan recipes"]
 ---
+<style>
+  body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
 
 **Level Up Your Lifestyle with Exciting Vegan Meal Planning!**
 
