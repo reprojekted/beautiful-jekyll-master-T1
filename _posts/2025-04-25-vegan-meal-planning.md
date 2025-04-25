@@ -7,7 +7,20 @@ image: "https://cdn.jsdelivr.net/gh/youruser/yourrepo@main/images/vegan.jpg"
 tags: ["vegan recipes"]
 ---
 
+<script>
+  tailwind.config = {
+    corePlugins: {
+      preflight: false, // disables global resets
+    },
+  };
+</script>
 <script src="https://cdn.tailwindcss.com"></script>
+
+<div id="tailwind-area">
+ <a href="https://example.com" class="inline-block bg-blue-600 text-white px-4 py-2 rounded-lg shadow hover:bg-blue-700">
+  🌐 Visit
+</a> <!-- Your Tailwind buttons etc. -->
+</div>
 
 **Level Up Your Lifestyle with Exciting Vegan Meal Planning!**
 
