@@ -2,7 +2,7 @@
 title: "Vegan Meal Planning"
 description: "An SEO-friendly guide to Vegan Meal Planning for young adults."
 slug: "vegan-meal-planning"
-date: "2025-04-27"
+date: "2025-04-25"
 image: "https://cdn.jsdelivr.net/gh/youruser/yourrepo@main/images/vegan.jpg"
 tags: ["vegan recipes"]
 ---
