@@ -45,6 +45,10 @@ Set aside a time each week to plan your meals. Scan through those amazing *vegan
 
 <a href="#" class="inline-block bg-blue-600 text-white px-4 py-2 rounded-lg shadow hover:bg-blue-700">Visit</a>
 
+<a href="#" class="inline-block bg-blue-600 text-white px-4 py-2 rounded-lg shadow hover:bg-blue-700">
+  🌐 Visit
+</a>
+
 ## Get Creative with Meal Prep and Snacks
 
 Vegan meal planning isn’t just about main dishes; snacks and sides matter, too! Prepare energy balls, hummus with veggie sticks, or fruit smoothies ahead of time. These quick bites will help you stay energized throughout your busy days and prevent unnecessary unhealthy snacking.
