@@ -6,7 +6,9 @@ date: "2025-04-25"
 image: "https://cdn.jsdelivr.net/gh/youruser/yourrepo@main/images/vegan.jpg"
 tags: ["vegan recipes"]
 ---
- 
+
+<script src="https://cdn.tailwindcss.com"></script>
+
 **Level Up Your Lifestyle with Exciting Vegan Meal Planning!**
 
 Hey there, young adventurers in health, flavor, and compassion! Are you ready to revolutionize your meals and fuel your days with vibrant, delicious *vegan recipes*? Whether you're a seasoned plant-based pro or just starting to explore the world of vegan dining, mastering the art of vegan meal planning is your new best friend. It’s time to ditch mealtime stress and embrace a world of creative, nutritious, and downright yummy eats!
@@ -26,6 +28,10 @@ Imagine this: no last-minute scramble to figure out what to eat, no more grabbin
 - Make a positive impact on the planet
 
 Let's dive into how you can turn this exciting idea into your everyday reality!
+
+<a href="https://example.com" class="inline-block bg-blue-600 text-white px-4 py-2 rounded-lg shadow hover:bg-blue-700">
+  🌐 Visit
+</a>
 
 ## Build Your Vegan Recipe Arsenal
 
