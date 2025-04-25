@@ -7,21 +7,6 @@ image: "https://cdn.jsdelivr.net/gh/youruser/yourrepo@main/images/vegan.jpg"
 tags: ["vegan recipes"]
 ---
 
-<script>
-  tailwind.config = {
-    corePlugins: {
-      preflight: false, // disables global resets
-    },
-  };
-</script>
-<script src="https://cdn.tailwindcss.com"></script>
-
-<div id="tailwind-area">
- <a href="https://example.com" class="inline-block bg-blue-600 text-white px-4 py-2 rounded-lg shadow hover:bg-blue-700">
-  🌐 Visit
-</a> <!-- Your Tailwind buttons etc. -->
-</div>
-
 **Level Up Your Lifestyle with Exciting Vegan Meal Planning!**
 
 Hey there, young adventurers in health, flavor, and compassion! Are you ready to revolutionize your meals and fuel your days with vibrant, delicious *vegan recipes*? Whether you're a seasoned plant-based pro or just starting to explore the world of vegan dining, mastering the art of vegan meal planning is your new best friend. It’s time to ditch mealtime stress and embrace a world of creative, nutritious, and downright yummy eats!
@@ -57,6 +42,8 @@ One of the biggest time-savers in vegan meal planning is batch cooking. Prepare 
 ## Plan Your Week with Purpose
 
 Set aside a time each week to plan your meals. Scan through those amazing *vegan recipes* you've collected, check what ingredients you already have, and create a shopping list. Aim for variety—mix up Asian-inspired dishes, Mediterranean flavors, Mexican tacos, and more. This not only keeps your taste buds excited but also keeps your diet balanced and nutritious.
+
+<a href="#" class="inline-block bg-blue-600 text-white px-4 py-2 rounded-lg shadow hover:bg-blue-700">Visit</a>
 
 ## Get Creative with Meal Prep and Snacks
 
