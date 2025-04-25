@@ -11,6 +11,10 @@ tags: ["vegan recipes"]
 
 Hey there, young adventurers in health, flavor, and compassion! Are you ready to revolutionize your meals and fuel your days with vibrant, delicious *vegan recipes*? Whether you're a seasoned plant-based pro or just starting to explore the world of vegan dining, mastering the art of vegan meal planning is your new best friend. It’s time to ditch mealtime stress and embrace a world of creative, nutritious, and downright yummy eats!
 
+<a href="https://example.com" class="button">🌐 Visit</a>
+<a href="tel:+1234567890" class="button">📞 Call</a>
+<a href="https://t.me/example" class="button primary">🚀 Go</a>
+
 ## Why Vegan Meal Planning is a Game Changer
 
 Imagine this: no last-minute scramble to figure out what to eat, no more grabbing unhealthy snacks, and instead, a well-organized plan that keeps your taste buds tingling and your energy sky-high. Vegan meal planning empowers you to:
